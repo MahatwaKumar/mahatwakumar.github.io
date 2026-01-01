@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Mahatwa Kumar
+cover : true
 ---
 
 Mechanical Engineering student at UCLA with interests in mechanical design,
