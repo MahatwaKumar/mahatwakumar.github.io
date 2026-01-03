@@ -1,0 +1,20 @@
+/* Softer, friendlier typography */
+.content h1 {
+  letter-spacing: -0.5px;
+}
+
+.content h3 {
+  font-weight: 500;
+  margin-top: 2rem;
+}
+
+/* Gentle emphasis */
+.content strong {
+  color: var(--accent-color);
+}
+
+/* Improve readability */
+.content p {
+  max-width: 58ch;
+  line-height: 1.65;
+}
