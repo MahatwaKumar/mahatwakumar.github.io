@@ -1,167 +1,103 @@
 ---
-layout: about
-image: /assets/img/blog/hydejack-9.jpg
+layout: page
+title: About
+permalink: /about/
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
-redirect_from:
-  - /download/
+  Sophomore Mechanical Engineering student at UCLA Samueli with a focus on CAD-driven design,
+  simulation-informed engineering, and hands-on prototyping.
 ---
 
-# About
+<!-- HERO IMAGE -->
+![Engineering workspace](/assets/img/about/hero.jpg)
+<small><em>Placeholder: light, clean workspace / CAD + prototyping banner.</em></small>
 
-<!--author-->
+## Hi, I’m Mahatwa 👋
+I’m a **sophomore majoring in Mechanical Engineering at the UCLA Samueli School of Engineering and Applied Science**. I’m interested in **engineering design, CAD-driven development, and hands-on problem solving**, and I enjoy working in collaborative environments where ideas move quickly from concept to execution.
 
-## Hydejack
+I’m especially drawn to engineering work where design decisions are informed by clarity, iteration, and real constraints—whether those are performance limits, manufacturability, or usability.
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+---
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+## What I work on
+### CAD-driven mechanical design
+A core part of my work centers on **parametric CAD modeling** and thoughtful design iteration. I’ve worked extensively with **Fusion 360** and continue to develop my workflow in **SolidWorks**, focusing on clean assemblies, modular design, and manufacturable geometry.
 
-![Screenshot](/assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+During my **CO-OPTS internship (Summer 2025)**, I:
+- Developed internal and external design components for a final, marketable device
+- Designed a product that was **modular, functional, and aesthetically considered**
+- Iterated designs under real-world constraints involving assembly, usability, and refinement
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+<!-- CAD IMAGE -->
+![CAD modeling placeholder](/assets/img/about/cad.jpg)
+<small><em>Placeholder: Fusion 360 or SolidWorks assembly / exploded view.</em></small>
 
+---
 
-**Hydejack** is a boutique [Jekyll] theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+### Hands-on engineering & fabrication
+I strongly value learning through building and prototyping. I’ve worked with a range of **CAM tools and fabrication methods**, including:
+- 3D printing (FDM, SLS, and resin)
+- CNC milling machines
+- CNC laser cutters and waterjet cutters
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+Fabrication has helped me better understand tolerances, fit, and the practical considerations that influence good design beyond the screen.
 
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
+<!-- FABRICATION IMAGE -->
+![Prototyping placeholder](/assets/img/about/fabrication.jpg)
+<small><em>Placeholder: 3D printer setup, CNC machine, or finished parts.</em></small>
 
+---
 
-## A Personal Site That Won't Disappear
+### Simulation-informed workflows
+Alongside CAD and fabrication, I’m actively building a **simulation-first mindset**. My current focus includes:
+- **NVIDIA Isaac Sim** for simulation-driven analysis
+- **Autodesk Flow Design** for developing aerodynamic intuition and visual flow analysis
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+These tools help bridge theoretical understanding with system-level behavior and guide more informed design decisions.
 
-Hydejack is all static sites. _HTML_. All you need is a web server — any web server — to have a professional web presence that lasts a lifetime.
+<!-- SIMULATION IMAGE -->
+![Simulation placeholder](/assets/img/about/simulation.jpg)
+<small><em>Placeholder: Isaac Sim or Flow Design screenshot.</em></small>
 
+---
 
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+## Academic foundation
+At UCLA, I’ve developed a strong grounding in mechanical engineering fundamentals, including:
+- Computer Aided Design and Drafting
+- Statics and Strength of Materials
+- Mathematics of Engineering (in progress)
+- Electrical and Electronic Circuits (in progress)
 
-<!--posts-->
+Upcoming coursework includes **Dynamics of Particles and Rigid Bodies** and **Fluid Mechanics**, which I’m particularly excited to apply to design and simulation-focused problems.
 
+---
 
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
+## Tools & skills
+**Design & engineering**
+- Fusion 360, SolidWorks, AutoCAD
+- CAM workflows: 3D printing, CNC machining, laser cutting, waterjet cutting
 
-<!--projects-->
+**Programming & technical**
+- Python, C++, Java
+- Arduino and ESP32
+- MATLAB / Mathematica
+- HTML, CSS, JavaScript
 
+**Other**
+- Game development (Unreal Engine, Unity)
+- Fluent in English, Spanish, and Hindi
 
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](/assets/Resume.pdf).
+---
 
-[![Resume PDF](/assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+## Beyond engineering
+Outside academics, I’m a **competitive sabre fencer** with experience at the **national and international level**. I have **represented India** in competition and earned **national-level medals**, reflecting years of structured training and competitive commitment.
 
-Front and center page of a print resume generated by Hydejack.
-{:.figcaption}
+At UCLA, I’ve competed for the university team on multiple occasions, finishing **1st place once and 3rd place once** in collegiate competitions. Fencing has been a defining part of my life and an important long-term pursuit.
 
+I’m also deeply invested in **fitness and strength training**. I lift regularly and value maintaining a physically active lifestyle as part of my routine. Beyond sport and fitness, I enjoy music and creative pursuits, and I value activities that reward consistency and long-term dedication.
 
-## Just Markdown
-Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
+---
 
+## Let’s connect
+If you’re interested in **mechanical design, CAD-driven development, prototyping, or collaborative engineering projects**, I’d love to connect.
 
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](/assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
-
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figcaption}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```html
-<!-- file: `_includes/my-body.html` -->
-<script type="module">
-  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
-    const supportsCodeHighlights = false; // TBD!!
-  });
-</script>
-```
-
-Code blocks can have a filename and a caption.
-{:.figcaption}
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-Hydejack uses KaTeX to efficiently render math.
-{:.figcaption}
-
-
-## Features
-
-{% include features.md %}
-
-
-## Download
-
-{% include table.md %}
-
-
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-[jekyll]: https://jekyllrb.com
-
-[blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: #syntax-highlighting
-[latex]: #beautiful-math
-[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
-[search]: https://hydejack.com/#_search-input
-[grid]: https://hydejack.com/blog/hydejack/
-
-[lic]: LICENSE.md
-[pro]: licenses/PRO.md
-[docs]: docs/README.md
-[ofln]: docs/advanced.md#enabling-offline-support
-[math]: docs/writing.md#adding-math
-
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
-[src]: https://github.com/hydecorp/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
+You can reach me through the **Contact** page or on LinkedIn.
